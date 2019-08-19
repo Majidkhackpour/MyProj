@@ -1,0 +1,26 @@
+H:\Backup Software\ARM\GSM\1.11.97\Sample\C#\SMS_BAN\SMS_BAN\bin\Debug\SMS_BAN.exe.config
+H:\Backup Software\ARM\GSM\1.11.97\Sample\C#\SMS_BAN\SMS_BAN\bin\Debug\SMS_BAN.exe
+H:\Backup Software\ARM\GSM\1.11.97\Sample\C#\SMS_BAN\SMS_BAN\bin\Debug\SMS_BAN.pdb
+H:\Backup Software\ARM\GSM\1.11.97\Sample\C#\SMS_BAN\SMS_BAN\obj\Debug\Interop.MS_SMS.dll
+H:\Backup Software\ARM\GSM\1.11.97\Sample\C#\SMS_BAN\SMS_BAN\obj\Debug\SMS_BAN.csproj.ResolveComReference.cache
+H:\Backup Software\ARM\GSM\1.11.97\Sample\C#\SMS_BAN\SMS_BAN\obj\Debug\SMS_BAN.Form1.resources
+H:\Backup Software\ARM\GSM\1.11.97\Sample\C#\SMS_BAN\SMS_BAN\obj\Debug\SMS_BAN.Properties.Resources.resources
+H:\Backup Software\ARM\GSM\1.11.97\Sample\C#\SMS_BAN\SMS_BAN\obj\Debug\SMS_BAN.csproj.GenerateResource.Cache
+H:\Backup Software\ARM\GSM\1.11.97\Sample\C#\SMS_BAN\SMS_BAN\obj\Debug\SMS_BAN.exe
+H:\Backup Software\ARM\GSM\1.11.97\Sample\C#\SMS_BAN\SMS_BAN\obj\Debug\SMS_BAN.pdb
+D:\SMS_BAN_Sample\Sample\C#\SMS_BAN\SMS_BAN\obj\Debug\SMS_BAN.csprojResolveAssemblyReference.cache
+D:\SMS_BAN_Sample\Sample\C#\SMS_BAN\SMS_BAN\obj\Debug\SMS_BAN.csproj.ResolveComReference.cache
+D:\SMS_BAN_Sample\Sample\C#\SMS_BAN\SMS_BAN\obj\Debug\SMS_BAN.Form1.resources
+D:\SMS_BAN_Sample\Sample\C#\SMS_BAN\SMS_BAN\obj\Debug\SMS_BAN.Properties.Resources.resources
+D:\SMS_BAN_Sample\Sample\C#\SMS_BAN\SMS_BAN\obj\Debug\SMS_BAN.csproj.GenerateResource.cache
+D:\SMS_BAN_Sample\Sample\C#\SMS_BAN\SMS_BAN\obj\Debug\SMS_BAN.csproj.CoreCompileInputs.cache
+D:\SMS_BAN_Sample\Sample\C#\SMS_BAN\SMS_BAN\bin\Debug\SMS_BAN.exe.config
+D:\SMS_BAN_Sample\Sample\C#\SMS_BAN\SMS_BAN\bin\Debug\SMS_BAN.exe
+D:\SMS_BAN_Sample\Sample\C#\SMS_BAN\SMS_BAN\bin\Debug\SMS_BAN.pdb
+D:\SMS_BAN_Sample\Sample\C#\SMS_BAN\SMS_BAN\bin\Debug\AxInterop.MS_SMS.dll
+D:\SMS_BAN_Sample\Sample\C#\SMS_BAN\SMS_BAN\bin\Debug\stdole.dll
+D:\SMS_BAN_Sample\Sample\C#\SMS_BAN\SMS_BAN\obj\Debug\SMS_BAN.csproj.CopyComplete
+D:\SMS_BAN_Sample\Sample\C#\SMS_BAN\SMS_BAN\obj\Debug\SMS_BAN.exe
+D:\SMS_BAN_Sample\Sample\C#\SMS_BAN\SMS_BAN\obj\Debug\SMS_BAN.pdb
+D:\SMS_BAN_Sample\Sample\C#\SMS_BAN\SMS_BAN\obj\Debug\Interop.MS_SMS.dll
+D:\SMS_BAN_Sample\Sample\C#\SMS_BAN\SMS_BAN\obj\Debug\AxInterop.MS_SMS.dll
